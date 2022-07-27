@@ -9,7 +9,7 @@ h1{
 .blue-color{
     color: blue;
 }
-section{
+.flaxible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -40,4 +40,5 @@ section{
     background-position: right;
     background-repeat: no-repeat;
 }
+
 
