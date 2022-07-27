@@ -6,6 +6,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .blue-color{
     color: blue;
 }
@@ -40,5 +43,26 @@ h1{
     background-position: right;
     background-repeat: no-repeat;
 }
-
-
+.experience-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    border-radius: 5px;
+     
+}
+.experience-area{
+    background-image: url(file/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border-color-for-full-stack{
+    border-left: 7px solid tomato;
+}
+#border-color-for-baby{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
